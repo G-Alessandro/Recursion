@@ -5,7 +5,7 @@
 <ul>
   <li>For Fibonacci: fibs(number)</li>
   <li>For Fibonacci-Recursive:  fibsRec(number)</li>
-  <li>For Merge-Sort: mergeSort(array)</li>
+  <li>For Merge-Sort: mergeSort([array])</li>
 </ul>
 
 <h2>Things I've learned:</h2>
